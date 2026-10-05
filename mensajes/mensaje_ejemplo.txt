@@ -1,0 +1,3 @@
+CASO AULA-01
+Mensaje de prueba: la evidencia se verifica, no se adivina.
+Codigo de control: FORENSE-2026
